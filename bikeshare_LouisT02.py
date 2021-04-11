@@ -33,8 +33,7 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
-        print('Which month do you want to analyze?  (All, January, February, March, April, May, June)')
-        month = input("Enter month: ").lower()
+        month = input("Which month do you want to analyze?  (All, January, February, March, April, May, June) Enter month: ").lower()
         if month not in MNTHS:
             print("\nInvalid Answer\n")
             continue
