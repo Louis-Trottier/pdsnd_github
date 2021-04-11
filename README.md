@@ -10,7 +10,7 @@ Project title in Github: pdsnd
 This project consists in a Python program and respective data sets to run against.
 
 ### Files used
-Include the files used
+Files used: Bikeshare Python program, 3 data files: chicago.csv, new_york_city.csv, washington.csv 
 
 ### Credits
 2021-04-12: Credits to Louis Trottier who provided his own bikeshare python program.
