@@ -42,8 +42,7 @@ def get_filters():
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
     while True:
-        print('Which day of the week do you want to analyze?  (All, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)')
-        day = input("Enter day: ").lower()
+        day = input("Which day of the week do you want to analyze?  (All, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)  Enter day: ").lower()
         if day not in WKDAYS:
             print("\nInvalid Answer\n")
             continue
