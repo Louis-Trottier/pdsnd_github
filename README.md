@@ -4,10 +4,10 @@
 Project Forked by Louis Trottier on 2021-04-11.  More changes expected on the same day.
 
 ### Project Title
-Replace the Project Title
+Project title in Github: pdsnd
 
 ### Description
-Describe what your project is about and what it does
+This project consists in a Python program and respective data sets to run against.
 
 ### Files used
 Include the files used
